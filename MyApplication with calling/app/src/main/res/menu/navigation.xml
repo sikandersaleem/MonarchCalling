@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newnotification"
+        android:icon="@drawable/newfeedback"
+        android:title="New" />
+    <item
+        android:id="@+id/inprogressnotifications"
+        android:icon="@drawable/progrss"
+        android:title="Inprogress" />
+
+    <item
+        android:id="@+id/closednotifications"
+        android:icon="@drawable/closed"
+        android:title="Closed" />
+
+</menu>
